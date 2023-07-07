@@ -1,0 +1,12 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"✅ The build command was run.\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
